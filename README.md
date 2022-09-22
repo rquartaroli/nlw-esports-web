@@ -9,6 +9,7 @@ Front-end web utilizado na semana do evento do projeto NLW-eSports da Rocketseat
 - [React JS](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwindcss](https://tailwindcss.com/)
+- [Radix](https://www.radix-ui.com/)
 - [React Hook Form](https://react-hook-form.com/)
 - [React Router Dom](https://v5.reactrouter.com/web/guides/quick-start)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
